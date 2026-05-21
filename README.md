@@ -59,7 +59,8 @@
 
 ## Output:
 
-<img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/82113fe4-9b54-458e-a942-ab62c119ad98" />
+<img width="1918" height="1148" alt="image" src="https://github.com/user-attachments/assets/b811bd06-b4a6-4417-a8b4-a95fa30d9865" />
+
 
 
 ### Name: Krithika Lakshmi M
